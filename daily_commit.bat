@@ -26,9 +26,9 @@ REM 3. Commit the changes
 echo Committing changes...
 git commit -m "daily update"
 
-REM 4. Push to GitHub
-echo Pushing to GitHub...
-git push
+REM 4. Push to GitHub (Set upstream for the first time)
+echo Pushing to GitHub and setting upstream...
+git push --set-upstream predictthyroid master
 
 echo.
 echo --- Daily Commit Completed! ---
