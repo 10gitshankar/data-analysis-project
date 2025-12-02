@@ -1,0 +1,11 @@
+# Ignore common build/config/temp files
+__pycache__/
+*.pyc
+.vscode/
+.ipynb_checkpoints/
+env/
+.env
+*.log
+data/
+*.sqlite3
+.DS_Store
