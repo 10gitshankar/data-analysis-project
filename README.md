@@ -8,8 +8,7 @@ This project focuses on building a Machine Learning model to predict the likelih
 ## Project Structure
 * `heart_disease_prediction.ipynb`: The main Jupyter Notebook containing data analysis, model building, and fine-tuning.
 * `heart_disease.csv`: The tabular dataset used for training and testing.
-* `/images`: (Optional) Add your model accuracy or confusion matrix plots here.
-
+  
 ## Why this Dataset?
 * **Efficient Training:** Fast training cycles on tabular data allow for rapid experimentation.
 * **Feature Intuition:** The medical features (e.g., age, cholesterol levels, heart rate) are intuitive to explain and analyze.
@@ -28,7 +27,6 @@ This project focuses on building a Machine Learning model to predict the likelih
     4. **Optimization:** Implementing Hyperparameter tuning and choosing the right Optimizers.
 
 ## Key Findings
-*(Yahan tapaile model training pachhi ayeko result lekhnuhos, example:)*
 * **Accuracy:** Obtained an accuracy of **84%** on the test set.
 * **Key Features:** Features like **Chest Pain Type (cp)** and **Maximum Heart Rate (thalach)** were significant predictors.
 
