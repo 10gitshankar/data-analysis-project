@@ -1,1 +1,1 @@
-Here is the set of data analysis prjects
+Here is the set of data analysis projects.
