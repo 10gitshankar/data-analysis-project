@@ -1,2 +1,2 @@
 Here is the set of data analysis projects.
-1.Heart disease prediction
+1.Heart disease prediction and analysis
